@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>闭包</title>
+</head>
+<body>
+
+</body>
+<script>
+  function createAdd() {
+      var counter = 0;
+      function add() {
+          counter = counter + 1;
+          return counter;
+      }
+      return add;
+  }
+
+
+  var counter = 5;
+  function other() {
+      var counter = 10; //  无论如何，add 函数都不会调用此处的 counter ，因为 JS 是词法作用域。
+      var add = createAdd();
+      var c1 = add();
+      var c2 = add();
+      var c3 = add();
+      console.log(c1, c2, c3, counter)
+  }
+
+  other();
+</script>
+<!--
+ JS 词法作用域：所谓的词法作用域就是在你写代码时将变量和块作用域写在哪里来决定，也就是词法作用域是静态的作用域，在你书写代码时就确定了。
+ JS 闭包：当创建和传递一个函数或将其从另一个函数返回时，这个函数就带有一个背包（闭包），背包（闭包）中包含了所有在创建函数时声明的变量。
+-->
+</html>
