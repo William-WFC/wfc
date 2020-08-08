@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d173bdb2-a7b0-48c4-baff-7d337d98828b" name="Default" comment="" />
+    <list default="true" id="d173bdb2-a7b0-48c4-baff-7d337d98828b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/img/1.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/1.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/2.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/3.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/4.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/5.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/6.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/7.pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/7.pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/c3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/flower.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/g2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/g3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/g4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/g5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/g5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/g6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/g6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/p2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/r1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/r1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/r2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/r2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/r3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/r3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/t1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/t1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/t2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/t2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/t3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/yofoody/t3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +46,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="393">
+              <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -64,7 +102,9 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -77,6 +117,11 @@
             <path>
               <item name="william" type="b2602c69:ProjectViewProjectNode" />
               <item name="william" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="william" type="b2602c69:ProjectViewProjectNode" />
+              <item name="william" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,7 +138,11 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/yofoody" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -127,20 +176,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3513000" />
+    <option name="totallyTimeSpent" value="4031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" weight="0.56551725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4537931" />
+      <window_info anchor="bottom" id="Terminal" weight="0.5117241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,8 +244,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/src/views/detail/index.vue" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -298,10 +345,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/yofoody/1.pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="393">
+          <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
         </state>
       </provider>
     </entry>
